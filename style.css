@@ -64,14 +64,6 @@ nav ul li a:hover {
   color: #007bff;
 }
 
-#hero {
-  background: url("images/img1.jpg") no-repeat center center;
-  background-size: cover;
-}
-
-
-
-
 .typing-text {
   font-size: 1.2em;
   margin-top: 10px;
